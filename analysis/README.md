@@ -23,6 +23,7 @@ Tool impact: This would give physicians an edge and allow them to act with more 
 Data impact: Image data linked with clinically relevant attributes in a public dataset that is designed for ML will enable parallel development of these tools and rapid local validation of models. Furthermore, this data can be used for completely different tasks.
 
 References:
+
 1 - http://www.aylward.org/notes/open-access-medical-image-repositories
 
 2 - https://www.kaggle.com/search?q=lungs+image+segmentation+datasetFileTypes%3Ajpg+datasetSize%3Alarge
