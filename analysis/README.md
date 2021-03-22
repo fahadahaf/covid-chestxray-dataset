@@ -10,19 +10,20 @@ The ability to predict the progress of the disease is crucial to decision making
 Objectives:
 To forecast the number of infections due to covid-19 with a maximum prediction accuracy (precision and recall : False negative is critical)
 
-Models (potentially):
+## Models (potentially):
 -      CNN: classification to see if the patient has covid or not
 -      CNN: if patient has covid then explore damage regions in image data
 -      NLP: Using NLP to analyze text data to improve diagnosis.
 -      Transfer Learning
 -      SKlearn and tensorflow.keras
 -      Pytorch and compare with tensorflow.keras
-Expected outcomes:
+## Expected outcomes:
+
 Tool impact: This would give physicians an edge and allow them to act with more confidence while they wait for the analysis of a radiologist by having a digital second opinion confirm their assessment of a patient's condition. Also, these tools can provide quantitative scores to consider and use in studies.
 
 Data impact: Image data linked with clinically relevant attributes in a public dataset that is designed for ML will enable parallel development of these tools and rapid local validation of models. Furthermore, this data can be used for completely different tasks.
 
-References:
+## References:
 
 1 - http://www.aylward.org/notes/open-access-medical-image-repositories
 
