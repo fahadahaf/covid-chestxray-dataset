@@ -13,7 +13,7 @@ To forecast the number of infections due to covid-19 with a maximum prediction a
 Models (potentially):
 -      CNN: classification to see if the patient has covid or not
 -      CNN: if patient has covid then explore damage regions in image data
--      NLP: Using
+-      NLP: Using NLP to analyze text data to improve diagnosis.
 -      Transfer Learning
 -      SKlearn and tensorflow.keras
 -      Pytorch and compare with tensorflow.keras
@@ -24,5 +24,7 @@ Data impact: Image data linked with clinically relevant attributes in a public d
 
 References:
 1 - http://www.aylward.org/notes/open-access-medical-image-repositories
+
 2 - https://www.kaggle.com/search?q=lungs+image+segmentation+datasetFileTypes%3Ajpg+datasetSize%3Alarge
+
 3- https://github.com/ieee8023/covid-chestxray-dataset
