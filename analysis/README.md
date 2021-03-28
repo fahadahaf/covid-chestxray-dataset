@@ -25,8 +25,12 @@ Data impact: Image data linked with clinically relevant attributes in a public d
 
 ## References:
 
-1 - http://www.aylward.org/notes/open-access-medical-image-repositories
+1 - https://scitechdaily.com/300-covid-19-machine-learning-models-have-been-developed-none-is-suitable-for-detecting-or-diagnosing/
 
-2 - https://www.kaggle.com/search?q=lungs+image+segmentation+datasetFileTypes%3Ajpg+datasetSize%3Alarge
+2- https://www.nature.com/articles/s42256-021-00307-0
 
-3- https://github.com/ieee8023/covid-chestxray-dataset
+3 - http://www.aylward.org/notes/open-access-medical-image-repositories
+
+4 - https://www.kaggle.com/search?q=lungs+image+segmentation+datasetFileTypes%3Ajpg+datasetSize%3Alarge
+
+5- https://github.com/ieee8023/covid-chestxray-dataset
